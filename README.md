@@ -79,6 +79,8 @@ DMM生成AI CAMPの教材をベースにしつつ、独自にカスタマイズ�
    streamlit run company_inner_search_app/main.py
 </details>
 
+---
+
 💡 今後の展望
 - 社内議事録や業務マニュアルなど実データでの応用
 - Google Workspace や外部ストレージとの連携
