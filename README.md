@@ -62,7 +62,8 @@ DMM生成AI CAMPの教材をベースにしつつ、独自にカスタマイズ�
 │   └── MTG議事録/          # 複数の社内文書
 ├── make_faiss_index.py      # ベクトルDB作成スクリプト
 ├── requirements.txt         # 必要ライブラリ一覧
-</details> ```
+```
+</details> 
 
 ---
 
