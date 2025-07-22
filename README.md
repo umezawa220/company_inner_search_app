@@ -1,8 +1,9 @@
 # 社内情報特化型 生成AI検索アプリ
 
 📎 **デモリンク**  
-実際のアプリはこちらからご覧いただけます：  
 👉 https://companyinnersearchapp-6wfzghhwpbztfwwe5muras.streamlit.app/
+実際のアプリはこちらからご覧いただけます：  
+※使用データはすべてダミー情報を使用しています。
 
 ---
 
