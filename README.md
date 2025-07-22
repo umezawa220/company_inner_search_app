@@ -2,7 +2,7 @@
 
 📎 **デモリンク**  
 実際のアプリはこちらからご覧いただけます：  
-👉 https://companyinnersearchapp-6wfzghhwpbztfwwe5muras.streamlit.app/　
+👉 https://companyinnersearchapp-6wfzghhwpbztfwwe5muras.streamlit.app/
 ※使用データはすべてダミー情報を使用しています。
 
 ---
