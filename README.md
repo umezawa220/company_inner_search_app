@@ -49,6 +49,7 @@ DMM生成AI CAMPの教材をベースにしつつ、独自にカスタマイズ�
 
 <details>
 <summary>📁 ディレクトリ構成</summary>
+   
 ```text
 ├── company_inner_search_app/
 │   ├── main.py              # Streamlitアプリのメイン
@@ -68,6 +69,7 @@ DMM生成AI CAMPの教材をベースにしつつ、独自にカスタマイズ�
 
 <details>
 <summary>🚀 使い方</summary>
+   
    ```text
 1. 必要なライブラリをインストール  
    pip install -r requirements.txt
