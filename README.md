@@ -67,7 +67,6 @@ DMM生成AI CAMPの教材をベースにしつつ、独自にカスタマイズ�
 <details>
 <summary>🚀 使い方</summary>
 1. 必要なライブラリをインストール  
-   ```bash
    pip install -r requirements.txt
 2. 環境変数 .env を作成し、OpenAIのAPIキーを設定
    OPENAI_API_KEY=your-api-key
