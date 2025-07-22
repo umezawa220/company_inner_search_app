@@ -156,6 +156,3 @@ if chat_message:
     # 表示用の会話ログにAIメッセージを追加
 <<<<<<< HEAD
     st.session_state.messages.append({"role": "assistant", "content": content})
-=======
-    st.session_state.messages.append({"role": "assistant", "content": content})
->>>>>>> 4434d87f6676789af1ac295925d6cf9bd82d6414
