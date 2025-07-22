@@ -154,5 +154,4 @@ if chat_message:
     # 表示用の会話ログにユーザーメッセージを追加
     st.session_state.messages.append({"role": "user", "content": chat_message})
     # 表示用の会話ログにAIメッセージを追加
-<<<<<<< HEAD
     st.session_state.messages.append({"role": "assistant", "content": content})
