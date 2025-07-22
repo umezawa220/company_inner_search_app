@@ -20,7 +20,6 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 import constants as ct
 
-
 ############################################################
 # 設定関連
 ############################################################
