@@ -49,7 +49,6 @@ DMM生成AI CAMPの教材をベースにしつつ、独自にカスタマイズ�
 
 <details>
 <summary>📁 ディレクトリ構成</summary>
-
 ```text
 ├── company_inner_search_app/
 │   ├── main.py              # Streamlitアプリのメイン
@@ -69,6 +68,7 @@ DMM生成AI CAMPの教材をベースにしつつ、独自にカスタマイズ�
 
 <details>
 <summary>🚀 使い方</summary>
+   ```text
 1. 必要なライブラリをインストール  
    pip install -r requirements.txt
 2. 環境変数 .env を作成し、OpenAIのAPIキーを設定
@@ -77,6 +77,7 @@ DMM生成AI CAMPの教材をベースにしつつ、独自にカスタマイズ�
    python make_faiss_index.py
 4. アプリを起動
    streamlit run company_inner_search_app/main.py
+   ```
 </details>
 
 ---
