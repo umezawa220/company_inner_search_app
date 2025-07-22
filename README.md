@@ -73,15 +73,15 @@ DMM生成AI CAMPの教材をベースにしつつ、独自にカスタマイズ�
    OPENAI_API_KEY=your-api-key
 3. ベクトルDB（FAISS）を作成
    python make_faiss_index.py
-5. アプリを起動
+4. アプリを起動
    streamlit run company_inner_search_app/main.py
 </details>
 
 💡 今後の展望
-・社内議事録や業務マニュアルなど実データでの応用
-・Google Workspace や外部ストレージとの連携
-・GPTs／Zapierなど他ツールと連動した自動化プロトタイプ展開
+- 社内議事録や業務マニュアルなど実データでの応用
+- Google Workspace や外部ストレージとの連携
+- GPTs／Zapierなど他ツールと連動した自動化プロトタイプ展開
 
 👤 作者情報
-・GitHub: umezawa220
-・使用目的：業務改善／AI×ナレッジ活用の実践的理解と提案力向上
+- GitHub: umezawa220
+- 使用目的：業務改善／AI×ナレッジ活用の実践的理解と提案力向上
