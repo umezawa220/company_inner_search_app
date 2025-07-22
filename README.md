@@ -1,5 +1,11 @@
 # 社内情報特化型 生成AI検索アプリ
 
+📎 **デモリンク**  
+実際のアプリはこちらからご覧いただけます：  
+👉 https://companyinnersearchapp-6wfzghhwpbztfwwe5muras.streamlit.app/
+
+---
+
 本アプリは、Python／Streamlitの基本理解と、生成AIの業務活用方法の習得を目的に作成したものです。  
 DMM生成AI CAMPの教材をベースにしつつ、独自にカスタマイズを加えています。
 
